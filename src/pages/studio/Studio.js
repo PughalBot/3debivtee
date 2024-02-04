@@ -33,11 +33,11 @@ export default function Studio() {
             </div>
             <footer className={styles.footer}>
                 <img
-                    src="/fotura_logo.jpg"
+                    src="/logo.png"
                     alt="Fotura Logo"
                 />
                 <div style={{ marginLeft: "10px" }}>
-                    Copyright © 2021 Fotura, Inc. All rights reserved.
+                    Copyright © 2024 EBIV, Inc. All rights reserved.
                 </div>
             </footer>
         </>
