@@ -16,6 +16,7 @@
     display: flex;
     align-items: center;
     font-size: 0.8rem;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .inner > p {
     margin: 0 0 0 5px;
