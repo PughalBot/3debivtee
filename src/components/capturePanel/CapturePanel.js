@@ -14,7 +14,7 @@ const CapturePanel = () => {
         const imgData = gl.domElement.toDataURL("image/png")
         var a = document.createElement("a")
 
-        a.setAttribute("download", "fotura.png")
+        a.setAttribute("download", "ebiv.png")
         a.setAttribute("href", imgData)
         a.click()
     }
